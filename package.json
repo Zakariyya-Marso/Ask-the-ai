@@ -1,0 +1,10 @@
+{
+  "name": "ask-the-ai-dashboard",
+  "version": "1.0.0",
+  "description": "Discord OAuth dashboard to configure Ask The AI bot server and channel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
